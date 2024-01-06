@@ -65,7 +65,8 @@
   - Internationalization:👂 heard
   - Blob, File, Buffer, node:buffer:👂 heard
   - Module node:zlib:👂 heard
-- Application structure and architecture:👂 heard
+    
+- Application structure and architecture
   - Isolation between layer:👂 heard
   - Multilayer approach:👂 heard
   - Separation of concerns:👂 heard
@@ -120,7 +121,7 @@
   - Protocol agnostic approach:👂 heard
  
     
-- Technique and tools:👂 heard
+- Technique and tools
   - Native test runner:👂 heard
   - Logging:👂 heard
   - Application configuring:👂 heard
@@ -138,14 +139,14 @@
   - Availability:👂 heard
   - Flexibility:👂 heard
   
-- Data access:👂 heard
+- Data access
   - Data access layer:👂 heard
   - Repository:👂 heard
   - Active record:👂 heard
   - Query builder:👂 heard
   - Object-Relational Mapping:👂 heard
   
-- Error handling and debugging:👂 heard
+- Error handling and debugging
   - Error:👂 heard
   - error.cause:👂 heard
   - error.code:👂 heard
@@ -161,7 +162,7 @@
   - Resource leaks:👂 heard
   - Data race:👂 heard
   
-- Integrations and bindings:👂 heard
+- Integrations and bindings
   - Native addons:👂 heard
   - C and C++ addons:👂 heard
   - Rust addons:👂 heard

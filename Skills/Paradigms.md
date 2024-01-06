@@ -1,15 +1,15 @@
-## Multi-paradigm programming:👂 heard
+## Multi-paradigm programming
 
-- Theory:👂 heard
-  - Procedural programming:👂 heard
-  - Imperative programming:👂 heard
-  - Structured programming:👂 heard
-  - Non-structured programming:👂 heard
-  - Functional programming:👂 heard
-  - Prototype-based programming:👂 heard
-  - Object-oriented programming:👂 heard
-  - Object-based programming:👂 heard
-  - Generic programming:👂 heard
+- Theory
+  - Procedural programming:🖐️ used
+  - Imperative programming:🖐️ used
+  - Structured programming:🖐️ used
+  - Non-structured programming:🖐️ used
+   - Functional programming:🖐️ used
+  - Prototype-based programming:🖐️ used
+  - Object-oriented programming:🖐️ used
+  - Object-based programming:🖐️ used
+  - Generic programming:🖐️ used
   - Concurrent computing:👂 heard
   - Asyncronous programming:👂 heard
   - Parallel programming:👂 heard
@@ -22,15 +22,15 @@
   - Actor model:👂 heard
  
     
-- OOP basics:👂 heard
-  - constructor:👂 heard
-  - new:👂 heard
-  - Static method:👂 heard
-  - Method:👂 heard
-  - Async method:👂 heard
-  - Getters, Setters:👂 heard
-  - Public fields:👂 heard
-  - Private fields:👂 heard
+- OOP basics
+  - constructor:🖐️ used
+  - new:🖐️ used
+  - Static method:🖐️ used
+  - Method:🖐️ used
+  - Async method:🖐️ used
+  - Getters, Setters:🖐️ used
+  - Public fields:🖐️ used
+  - Private fields:🖐️ used
   - Field declarations:👂 heard
   - Inheritance:👂 heard
   - Parent class:👂 heard
@@ -45,31 +45,27 @@
   - Reflection:👂 heard
  
     
-- Patterns:👂 heard
-  - Singleton:👂 heard
-  - Factory Method:👂 heard
-  - Abstract Factory:👂 heard
-  - Adapter:👂 heard
-  - Observer:👂 heard
-  - Strategy:👂 heard
-  - Facade:👂 heard
-  - Proxy:👂 heard
- 
-    
+- Patterns
+ - Singleton:🖐️ used
+  - Factory Method:🖐️ used
+  - Abstract Factory:🖐️ used
+  - Adapter:🖐️ used
+  - Observer:🖐️ used
+  - Strategy:🖐️ used
+  - Facade:🖐️ used
+  - Proxy:🖐️ used
   - Chain of Responsibility:👂 heard
-  - Command:👂 heard
-  - Iterator:👂 heard
-  - State:👂 heard
-  - Bridge:👂 heard
-  - Builder:👂 heard
-  - Prototype:👂 heard
-  - Composite:👂 heard
-  - Decorator:👂 heard
-  - Flyweight:👂 heard
-  - Mediator:👂 heard
-  - Memento:👂 heard
- 
-    
-  - Template Method:👂 heard
-  - Visitor:👂 heard
+  - Command:🖐️ used
+  - Iterator:🖐️ used
+  - State:🖐️ used
+  -  - Bridge: 🎓 known
+  - Builder: 🎓 known
+  - Prototype: 🎓 known
+  - Composite: 👂 heard
+  - Decorator: 🎓 known
+  - Flyweight: 👂 heard
+  - Mediator: 👂 heard
+  - Memento: 🎓 known
+  - Template Method: 🎓 known
+  - Visitor: 🎓 known
 

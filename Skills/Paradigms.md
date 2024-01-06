@@ -1,6 +1,6 @@
-## Multi-paradigm programming:👂 heard
+## Multi-paradigm programming
 
-- Theory:👂 heard
+- Theory
   - Procedural programming:👂 heard
   - Imperative programming:👂 heard
   - Structured programming:👂 heard
@@ -22,7 +22,7 @@
   - Actor model:👂 heard
  
     
-- OOP basics:👂 heard
+- OOP basics
   - constructor:👂 heard
   - new:👂 heard
   - Static method:👂 heard
@@ -45,7 +45,7 @@
   - Reflection:👂 heard
  
     
-- Patterns:👂 heard
+- Patterns
   - Singleton:👂 heard
   - Factory Method:👂 heard
   - Abstract Factory:👂 heard
@@ -54,8 +54,6 @@
   - Strategy:👂 heard
   - Facade:👂 heard
   - Proxy:👂 heard
- 
-    
   - Chain of Responsibility:👂 heard
   - Command:👂 heard
   - Iterator:👂 heard
@@ -68,8 +66,6 @@
   - Flyweight:👂 heard
   - Mediator:👂 heard
   - Memento:👂 heard
- 
-    
   - Template Method:👂 heard
   - Visitor:👂 heard
 

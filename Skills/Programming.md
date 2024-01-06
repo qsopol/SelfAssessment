@@ -1,24 +1,24 @@
-## Programming fundamental concepts:👂 heard
+## Programming fundamental concepts
 
-- Syntax and concepts:👂 heard
-  - value:👂 heard
-  - identifier:👂 heard
-  - variable:👂 heard
-  - constant:👂 heard
-  - scalar:👂 heard
-  - literal:👂 heard
-  - expression:👂 heard
-  - heap:👂 heard
-  - function:👂 heard
-  - procedure:👂 heard
-  - method:👂 heard
-  - class:👂 heard
-  - prototype:👂 heard
-  - event:👂 heard
-  - type:👂 heard
-  - primitive types:👂 heard
-  - reference types:👂 heard
-  - flag:👂 heard
+- Syntax and concepts
+  - value:🖐️ used
+  - identifier:🖐️ used
+  - variable:🖐️ used
+  - constant:🖐️ used
+  - scalar:🖐️ used
+  - literal:🖐️ used
+  - expression:🖐️ used
+  - heap:🖐️ used
+  - function:🖐️ used
+  - procedure:🖐️ used
+  - method:🖐️ used
+  - class:🖐️ used
+  - prototype:🖐️ used
+  - event:🖐️ used
+  - type:🖐️ used
+  - primitive types:🖐️ used
+  - reference types:🖐️ used
+  - flag:🖐️ used
   - lexical scope:👂 heard
   - code block:👂 heard
   - conditions:👂 heard
@@ -26,69 +26,69 @@
   - assignment:👂 heard
   - regular expression:👂 heard
   - interface:👂 heard
-  - contract:👂 heard
-  - module:👂 heard
+  - contract:🖐️ used
+  - module:🖐️ used
   - call stack:👂 heard
 
-- Functions:👂 heard
-  - signature:👂 heard
-  - argument:👂 heard
-  - parameter:👂 heard
-  - pure function:👂 heard
-  - lambda expression:👂 heard
-  - side effects:👂 heard
-  - closure:👂 heard
+- Functions
+  - signature:🖐️ used
+  - argument:🖐️ used
+  - parameter:🖐️ used
+  - pure function:🖐️ used
+  - lambda expression:🖐️ used
+  - side effects:🖐️ used
+  - closure:🖐️ used
   - partial application:👂 heard
   - curry:👂 heard
   - higher order:👂 heard
-  - recursion:👂 heard
-  - callback:👂 heard
-  - listener:👂 heard
-  - compose:👂 heard
+  - recursion:🖐️ used
+  - callback:🖐️ used
+  - listener:🖐️ used
+  - compose:🖐️ used
   - pipe:👂 heard
   - memoize:👂 heard
   - wrapper:👂 heard
   - functor:👂 heard
   - monad:👂 heard
   - monoid:👂 heard
-  - generator:👂 heard
+  - generator:🖐️ used
   - coroutine:👂 heard
  
-- Data structures:👂 heard
-  - array:👂 heard
-  - structure:👂 heard
-  - record:👂 heard
-  - enum:👂 heard
-  - instance:👂 heard
-  - object:👂 heard
-  - class:👂 heard
-  - collection:👂 heard
-  - set:👂 heard
-  - hash table:👂 heard
-  - linked list:👂 heard
-  - doubly list:👂 heard
-  - unrolled list:👂 heard
-  - circular list:👂 heard
-  - queue:👂 heard
-  - stack:👂 heard
-  - deque:👂 heard
-  - tree:👂 heard
-  - graph:👂 heard
-  - iterator:👂 heard
-  - mutable state:👂 heard
-  - immutable state:👂 heard
-  - serialization:👂 heard
-  - string parsing:👂 heard
+- Data structures
+  - array:🖐️ used
+  - structure:🖐️ used
+  - record:🖐️ used
+  - enum:🖐️ used
+  - instance:🖐️ used
+  - object:🖐️ used
+  - class:🖐️ used
+  - collection:🖐️ used
+  - set:🖐️ used
+  - hash table:🖐️ used
+  - linked list:🖐️ used
+  - doubly list:🖐️ used
+  - unrolled list:🖐️ used
+  - circular list:🖐️ used
+  - queue:🖐️ used
+  - stack:🖐️ used
+  - deque:🖐️ used
+  - tree:🖐️ used
+  - graph:🖐️ used
+  - iterator:🖐️ used
+  - mutable state:🖐️ used
+  - immutable state:🖐️ used
+  - serialization:🖐️ used
+  - string parsing:🖐️ used
     
-- Process & style:👂 heard
-  - compiler:👂 heard
-  - transpiler:👂 heard
-  - linter:👂 heard
-  - polyfill:👂 heard
-  - debugger:👂 heard
-  - garbage collection:👂 heard
-  - refactoring:👂 heard
-  - code review:👂 heard
+- Process & style
+  - compiler:🖐️ used
+  - transpiler:🖐️ used
+  - linter:🖐️ used
+  - polyfill:🖐️ used
+  - debugger:🖐️ used
+  - garbage collection:🖐️ used
+  - refactoring:🖐️ used
+  - code review:🖐️ used
   - antipatterns:👂 heard
   - paradigm:👂 heard
   - algorithm:👂 heard

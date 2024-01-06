@@ -3,10 +3,10 @@
 - Internals and concepts
   - Strong and weak sides of node.js: 🎓 known
   - Stateful and stateless servers: 🎓 known
-  - Nonblocking I/O and slocking code: 🎓 known
+  - Nonblocking I/O and slocking code: 👂 heard
   - Event loop: phases:👂 heard
   - Event loop: microtasks and macrotasks: 🎓 known
-  - Garbage collection: 🎓 known
+  - Garbage collection: 👂 heard
   - Node.js LTS schedule: 🎓 known
   - I/O-bound, CPU-bound, memory-bound tasks:👂 heard
   - Interactive applications (close to real-time):👂 heard

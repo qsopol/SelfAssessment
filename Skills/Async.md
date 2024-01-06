@@ -1,7 +1,7 @@
 ## Asynchronous programming
 
 - Theory
-  - Event loop: 👂 heard
+  - Event loop: 🎓 known
   - try..catch: 👂 heard
   - Non-blocking: 👂 heard
   - Async I/O: 👂 heard
@@ -18,17 +18,17 @@
   - Live locks: 👂 heard
   - Concurrent programming: 👂 heard
   - Parallel programming: 👂 heard
-  - Actor Model: 👂 heard
+  - Actor Model: 🎓 known
   - Thread: 👂 heard
   - Process: 👂 heard
  
     
 - Async contracts
-  - Callbacks: 👂 heard
+  - Callbacks: 🖐️ used
   - Callback-last-error-first: 👂 heard
   - Thenable: 👂 heard
-  - Promise: 👂 heard
-  - Async/await: 👂 heard
+  - Promise: 🖐️ used
+  - Async/await: 🖐️ used
   - Future: 👂 heard
   - Deferred: 👂 heard
   - Sync generator: 👂 heard
@@ -45,18 +45,18 @@
  
     
 - Async adapters and utils
-  - callbackify: 👂 heard
-  - promisify: 👂 heard
-  - asyncify: 👂 heard
+  - callbackify: 🖐️ used
+  - promisify: 🖐️ used
+  - asyncify: 🖐️ used
   - callbacks compose: 👂 heard
   - async compose: 👂 heard
  
 - Async abstractions interfaces
-  - EventEmitter: 👂 heard
-  - Observable/Observer: 👂 heard
-  - Readable: 👂 heard
-  - Writable: 👂 heard
-  - Transform: 👂 heard
+  - EventEmitter: 🎓 known
+  - Observable/Observer: 🎓 known
+  - Readable: 🎓 known
+  - Writable: 🎓 known
+  - Transform: 🎓 known
   - Async Pool: 👂 heard
   - Async Queue: 👂 heard
   - Async Collector: 👂 heard
@@ -65,9 +65,9 @@
   - Spin Lock: 👂 heard
     
 - JavaScript & Node.js specific
-  - Timers: 👂 heard
-  - setImmediate: 👂 heard
-  - nextTick: 👂 heard
+  - Timers: 🖐️ used
+  - setImmediate: 🖐️ used
+  - nextTick: 🖐️ used
   - AbortController: 👂 heard
   - AbortSignal: 👂 heard
   - Promise unhandled rejection: 👂 heard
@@ -82,14 +82,14 @@
   - Error handling in async code: 👂 heard
   - Better stack traces with return await: 👂 heard
   - JSON: streaming serialization: 👂 heard
-  - promisify: 👂 heard
-  - callbackify: 👂 heard
+  - promisify: 🖐️ used
+  - callbackify: 🖐️ used
   - AsyncLocalStorage: 👂 heard
   - AsyncResource: 👂 heard
     
 - Techniques
   - async.js library: 👂 heard
-  - RxJS library: 👂 heard
+  - RxJS library: 🎓 known
   - Async composition: 👂 heard
   - Promise.all: 👂 heard
   - Promise.allSettled: 👂 heard
@@ -100,3 +100,4 @@
   - Channel API: 👂 heard
   - Revealing Constructor: 👂 heard
   - Web Locks API: 👂 heard
+
